@@ -4,7 +4,7 @@ import FCoffee from "./components/FCoffee";
 function App() {
   return (
     <>
-      <CCoffee firstName='Josh' />
+     {/*<CCoffee firstName='Josh' />*/}
       <FCoffee firstName='Josh' />
     </>
   );
