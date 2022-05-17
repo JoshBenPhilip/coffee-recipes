@@ -28,7 +28,4 @@ function FCoffee({ firstName }) {
     )
 }
 
-
-
-
 export default FCoffee;
